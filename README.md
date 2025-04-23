@@ -136,15 +136,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benmabroukaya&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benmabroukaya&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=benmabroukaya&show_icons=true&theme=radical" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benmabroukaya&theme=radical" height="180" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmabroukaya&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmabroukaya&layout=compact&theme=radical" height="180" alt="Top languages"/>
 </p>
 
-<hr align="center" />
+<hr />
 
 <h2 align="center">🌐 Connect with Me</h2>
 
