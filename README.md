@@ -46,17 +46,16 @@ Features include:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaBenMabrouk&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaBenMabrouk&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=benmabroukaya&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benmabroukaya&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaBenMabrouk&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmabroukaya&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
 
 ### 🌐 Connect with Me
 
