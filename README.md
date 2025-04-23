@@ -22,9 +22,9 @@
   🎓 Final-year Software Engineering student at <strong>ESSAT GABES</strong><br>
   💼 Currently building a <strong>web platform for HEC Électricité</strong> as my graduation project<br>
   🌐 I love crafting full-stack applications that are both functional and user-friendly<br>
-  🌱 Currently learning <strong>DevOps, Docker & CI/CD</strong>
-  👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
-  📄 [My Resume](https://drive.google.com/file/d/1fEMNmcGFAPAD1ulB_qE7T-LgOPNLx2Id/view) 
+  🌱 Currently learning <strong>DevOps, Docker & CI/CD</strong><br>
+  👯 I'm looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
+  📄 <a href="https://drive.google.com/file/d/1fEMNmcGFAPAD1ulB_qE7T-LgOPNLx2Id/view" target="_blank"><strong>My Resume</strong></a>
 </p>
 
 <hr align="center" />
