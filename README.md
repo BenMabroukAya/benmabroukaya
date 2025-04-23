@@ -23,6 +23,8 @@
   💼 Currently building a <strong>web platform for HEC Électricité</strong> as my graduation project<br>
   🌐 I love crafting full-stack applications that are both functional and user-friendly<br>
   🌱 Currently learning <strong>DevOps, Docker & CI/CD</strong>
+  👯 I’m looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
+  📄 [My Resume](https://drive.google.com/file/d/1fEMNmcGFAPAD1ulB_qE7T-LgOPNLx2Id/view)
 </p>
 
 <hr align="center" />
