@@ -165,4 +165,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,334155&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000080,1E3A8A,0F52BA&height=110&section=footer" width="100%">
