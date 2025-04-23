@@ -5,6 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
+<br>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=benmabroukaya&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
+<br>
+
 <hr align="center" />
 
 <h2 align="center">🚀 About Me</h2>
@@ -139,26 +148,22 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aya-ben-mabrouk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:aya.benmabrouk@isimg.tn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/ayaamab12/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/ayabenmabroukk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/aya.benmabrouk4132" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:aya.benmabrouk@isimg.tn" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=aya.benmabrouk@isimg.tn&size=square" alt="Aya's Email" style="margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" alt="Tunisia +216-92084643" style="margin: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<hr align="center" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyaBenMabrouk&style=flat-square&color=blue" alt="Profile views" />
-</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,334155&height=110&section=footer" width="100%">
