@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Software Engineering student at **ISI Medenine**
+- 🎓 Final-year Software Engineering student at **ESSAT GABES**
 - 💼 Currently building a **web platform for HEC Électricité** as my graduation project
 - 🌐 I love crafting full-stack applications that are both functional and user-friendly
 - 🌱 Currently learning **DevOps, Docker & CI/CD**
