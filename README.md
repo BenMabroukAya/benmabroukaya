@@ -146,6 +146,13 @@
 </p>
 <hr />
 
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://random-dev-quote-ui.vercel.app/" alt="Random Dev Quote">
+</p>
+<hr/>
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 
