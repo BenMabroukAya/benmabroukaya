@@ -148,14 +148,11 @@
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
-<p align="center">
-  <a href="https://random-dev-quote-ui.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/BenMabroukAya/random-dev-quote-ui/main/preview.png" alt="App Preview" width="600"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://random-dev-quote-ui.vercel.app/" target="_blank">🌐 View Live Demo</a>
+  ![](https://random-dev-quote-ui.vercel.app/)
 </p>
 
 
