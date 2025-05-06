@@ -149,8 +149,10 @@
 <h2 align="center">✍️ Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://random-dev-quote-ui.vercel.app/" alt="Random Dev Quote">
+  <iframe src="https://random-dev-quote-ui.vercel.app/" width="600" height="400" frameborder="0"></iframe>
 </p>
+
+
 <hr/>
 
 
