@@ -152,7 +152,7 @@
 
 <p align="center">
   <a href="https://random-dev-quote-ui.vercel.app/" target="_blank">🌐 View Live Demo</a>
-  <img src="https://random-dev-quote-ui.vercel.app/" alt="Random Dev Quote">
+  
 </p>
 
 
