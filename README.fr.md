@@ -12,7 +12,6 @@
 </div>
 
 
-<h3 align="center" style="color:#A50044">⚡ Full stack, rapide et futée comme le Barça ! | ⚽ Débogage solide comme Puyol en défense 🔴🔵</h3>
 
 <br>
 
