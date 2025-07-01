@@ -1,9 +1,26 @@
-<h1 align="center">Hey there 👋, I'm Aya Ben Mabrouk</h1>
-<h3 align="center">💻 Software Engineering Student | 🛠️ Full Stack Developer | 🌍 Tunisia</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+<p align="right">
+  🌐 <strong>Language:</strong>
+  <a href="README.md">🇬🇧 English</a> |
+  <a href="README.fr.md">🇫🇷 Français</a>
 </p>
+
+<h1 align="center">Hey there 👋, I'm Aya Ben Mabrouk</h1>
+<h2 align="center" style="color:#004D98">💻 Junior Software Engineer | 🛠️ Full Stack Developer | 🌍 Tunisia</h2>
+
+
+
+<!-- Ligne Barça BLEUE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=⚡+Full+stack+developer;fueled+by+Barça’s+tiki-taka" alt="Barça Blue Quote Typing SVG" />
+</p>
+
+<!-- Ligne Barça ROUGE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A50044&center=true&vCenter=true&width=800&lines=Debugging+like+a+Barça+defender;blocking+errors+before+they+even+get+close+to+goal+🔴🔵" alt="Barça Red Quote Typing SVG" />
+</p>
+
+
+<h3 align="center" style="color:#A50044";>⚡ Full stack developer fueled by Barça’s tiki-taka — fast, smart, and unstoppable! | ⚽ Debugging like a Barça defender—blocking errors before they even get close to goal! 🔴🔵</h3>
 
 <br>
 
@@ -19,13 +36,15 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  🎓 Final-year Software Engineering student at <strong>ESSAT GABES</strong><br>
-  💼 Currently building a <strong>web platform for HEC Électricité</strong> as my graduation project<br>
-  🌐 I love crafting full-stack applications that are both functional and user-friendly<br>
-  🌱 Currently learning <strong>DevOps, Docker & CI/CD</strong><br>
-  👯 I'm looking to collaborate on <strong>open-source projects or innovative tech solutions</strong><br>
-  📄 <a href="https://drive.google.com/file/d/1fG0xeNYPE6o4Cro9Quy4yNObNBqG3hEK/view?usp=sharing" target="_blank"><strong>My Resume</strong></a>
+  👩‍💻 I'm Aya Ben Mabrouk, a passionate <strong>Full Stack Software Engineer</strong> from Tunisia<br>
+  🎓 Recently graduated from <strong>ESSAT GABÈS</strong> with a degree in Software Engineering<br>
+  🧠 I thrive on turning complex problems into elegant digital solutions<br>
+  ⚙️ Tech enthusiast currently diving deeper into <strong>DevOps, Docker, and CI/CD</strong><br>
+  💡 Always curious, always building, always learning<br>
+  📌 Open to new opportunities, collaborations, and challenges in the tech world<br>
+  📄 <a href="https://drive.google.com/file/d/1yIThVLlyKsjS1kPiPGTC_4-cGvW3WQEf/view?usp=sharing" target="_blank"><strong>Check out my Resume</strong></a>
 </p>
+
 
 <hr align="center" />
 
@@ -121,17 +140,15 @@
 
 <hr align="center" />
 
-<h2 align="center">📌 Currently Working On</h2>
+<h2 align="center">📌 Currently Exploring</h2>
 
 <p align="center">
-  🛠️ A complete web solution for <strong>HEC Électricité</strong><br>
-  ✨ Features include:<br>
-  • Project and client management<br>
-  • Client space & communication system<br>
-  • Appointment booking system<br>
-  • Cost simulator<br>
-  • Real-time notifications
+  🎓 Recently graduated as a <strong>Software Engineer</strong> from <strong>ESSAT Gabès</strong><br>
+  ✅ Successfully completed a full-stack web platform for <strong>HEC Électricité</strong> as my graduation project<br>
+  🔍 Actively looking for opportunities in <strong>Full Stack Development</strong> or <strong>DevOps Engineering</strong><br>
+  💡 Exploring new technologies, contributing to open-source projects, and growing my skills in <strong>cloud infrastructure</strong> and <strong>software architecture</strong>
 </p>
+
 
 <hr align="center" />
 
@@ -146,14 +163,14 @@
 </p>
 <hr />
 
-<h2 align="center">✍️ Random Dev Quote</h2>
+<!--<h2 align="center">✍️ Random Dev Quote</h2>
 
 
 
 <p align="center">
   <a href="https://random-dev-quote-ui.vercel.app/" target="_blank">🌐 View Live Demo</a>
   
-</p>
+</p> -->
 
 
 
@@ -171,7 +188,7 @@
     </td>
     <td align="center">
       <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" alt="Tunisia +216-92084643" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" alt="Tunisia +216-27323009" style="margin: 10px;">
       </a>
     </td>
   </tr>
