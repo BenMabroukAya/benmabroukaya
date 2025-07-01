@@ -32,7 +32,7 @@
   ⚙️ Actuellement, je me spécialise dans le <strong>DevOps, Docker, CI/CD</strong> et l’architecture logicielle<br>
   💡 Curieuse, autodidacte, créative, je suis en constante évolution<br>
   📌 Ouverte aux opportunités, collaborations et nouveaux défis<br>
-  📄 <a href="https://drive.google.com/file/d/1yIThVLlyKsjS1kPiPGTC_4-cGvW3WQEf/view?usp=sharing" target="_blank"><strong>Voir mon CV</strong></a>
+  📄 <a href="https://drive.google.com/file/d/1NhnNzMvroaeFeAoW0Vis0T60E0Sn519w/view?usp=sharing" target="_blank"><strong>Voir mon CV</strong></a>
 </p>
 
 <hr align="center" />
