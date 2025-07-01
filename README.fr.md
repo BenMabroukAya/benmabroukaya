@@ -147,3 +147,13 @@
 </p>
 
 <hr />
+
+<div style="display: flex; width: 100%; height: 110px;">
+  <div style="width: 50%; height: 110px; overflow: hidden;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=A50044&height=110&section=footer" style="width: 200%; height: 110px; object-fit: cover;" />
+  </div>
+  <div style="width: 50%; height: 110px; overflow: hidden;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=004D98&height=110&section=footer" style="width: 200%; height: 110px; object-fit: cover;" />
+  </div>
+</div>
+
