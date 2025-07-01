@@ -11,12 +11,12 @@
 
 <!-- Ligne Barça BLEUE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+stack+developer;fueled+by+Barça's+tiki-taka" alt="Barça Blue Quote Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+stack+developer;fueled+by+Bar%C3%A7a%27s+tiki-taka" alt="Barça Blue Quote Typing SVG" />
 </p>
 
 <!-- Ligne Barça ROUGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A50044&center=true&vCenter=true&width=800&lines=Debugging+like+a+Barça's+defender;blocking+errors+before+they+even+get+close+to+goal+%F0%9F%94%B4%F0%9F%94%B5 " alt="Barça Red Quote Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A50044&center=true&vCenter=true&width=800&lines=Debugging+like+a+Bar%C3%A7a%27s+defender;blocking+errors+before+they+even+get+close+to+goal+%F0%9F%94%B4%F0%9F%94%B5 " alt="Barça Red Quote Typing SVG" />
 </p>
 
 
