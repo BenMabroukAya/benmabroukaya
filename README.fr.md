@@ -2,14 +2,15 @@
 <h2 align="center" style="color:#004D98">💻 Ingénieure Logiciel Junior | 🛠️ Développeuse Full Stack | 🌍 Tunisie</h2>
 
 <!-- Typing animation BLEUE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=⚡+Développeuse+Full+Stack;inspirée+par+le+tiki-taka+du+Barça" alt="Barça Blue Quote Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=%E2%9A%A1+D%C3%A9veloppeuse+Full+Stack;inspir%C3%A9e+par+le+tiki-taka+du+Bar%C3%A7a" alt="Barça Blue Quote Typing SVG" />
+</div>
 
 <!-- Typing animation ROUGE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A50044&center=true&vCenter=true&width=800&lines=Je+d%C3%A9bogue+comme+un+d%C3%A9fenseur+du+Bar%C3%A7a;je+bloque+les+bugs+avant+qu'ils+n'atteignent+le+but+🔴🔵" alt="Barça Red Quote Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A50044&center=true&vCenter=true&width=800&lines=Je+d%C3%A9bogue+comme+un+d%C3%A9fenseur+du+Bar%C3%A7a;je+bloque+les+bugs+avant+qu'ils+n'atteignent+le+but+%F0%9F%94%B4%F0%9F%94%B5" alt="Barça Red Quote Typing SVG" />
+</div>
+
 
 <h3 align="center" style="color:#A50044">⚡ Full stack, rapide et futée comme le Barça ! | ⚽ Débogage solide comme Puyol en défense 🔴🔵</h3>
 
