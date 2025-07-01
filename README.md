@@ -11,7 +11,7 @@
 
 <!-- Ligne Barça BLEUE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+stack+developer;fueled+by+Barc%C3%A0%E2%80%99s+tiki-taka" alt="Barça Blue Quote Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004D98&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+stack+developer;fueled+by+Barça's+tiki-taka" alt="Barça Blue Quote Typing SVG" />
 </p>
 
 <!-- Ligne Barça ROUGE -->
