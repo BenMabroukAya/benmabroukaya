@@ -187,8 +187,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-92084643&size=square" alt="Tunisia +216-27323009" style="margin: 10px;">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-27323009&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Tunisia-+216-27323009&size=square" alt="Tunisia +216-27323009" style="margin: 10px;">
       </a>
     </td>
   </tr>
