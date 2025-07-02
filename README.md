@@ -198,12 +198,13 @@
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=000080,1E3A8A,0F52BA&height=110&section=footer" width="100%"> -->
-<div style="display: flex; width: 100%; height: 110px;">
+<!-- <div style="display: flex; width: 100%; height: 110px;">
   <div style="width: 50%; height: 110px; overflow: hidden;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=A50044&height=110&section=footer" style="width: 200%; height: 110px; object-fit: cover;" />
   </div>
   <div style="width: 50%; height: 110px; overflow: hidden;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=004D98&height=110&section=footer" style="width: 200%; height: 110px; object-fit: cover;" />
   </div>
-</div>
+</div> -->
+<img src="waves.svg" width="950">
 
